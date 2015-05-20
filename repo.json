@@ -1,0 +1,12 @@
+{
+    "Whiskey": {
+        "url": "https://github.com/xlopo/tg-pybot-whiskey",
+        "description": "Pass the whiskey.",
+        "version": "1.0"
+    },
+    "Example": {
+        "url": "https://example.com",
+        "description": "This is only an example.",
+        "version": "0.1"
+    }
+}
