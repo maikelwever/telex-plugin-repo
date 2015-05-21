@@ -38,7 +38,7 @@ for url in urls:
     repo_json["packages"].append(pkg_json)
 
 
-repo_output = open("repo2.json", "wb")
+repo_output = open("repo.json", "wb")
 repo_output.write(json.dumps(repo_json, sort_keys=True, indent=4).encode("utf-8"))
 repo_output.write(b"\n")
 repo_output.close()

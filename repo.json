@@ -1,12 +1,20 @@
 {
-    "Whiskey": {
-        "url": "https://github.com/xlopo/tg-pybot-whiskey",
-        "description": "Pass the whiskey.",
-        "version": "1.0"
-    },
-    "Dice": {
-        "url": "https://github.com/datamachine/telegram-pybot-dice.git",
-        "description": "Roll Dice!",
-        "version": "0.1"
-    }
+    "packages": [
+        {
+            "branch": "master",
+            "description": "Pass the whiskey.",
+            "homepage": "https://github.com/xlopo/tg-pybot-whiskey",
+            "name": "Whiskey",
+            "repo": "https://github.com/xlopo/tg-pybot-whiskey.git",
+            "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "description": "Roll Dice!",
+            "homepage": "https://github.com/datamachine/telegram-pybot-dice",
+            "name": "Dice",
+            "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
+            "version": "0.1"
+        }
+    ]
 }
