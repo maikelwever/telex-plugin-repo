@@ -18,3 +18,16 @@ Make a pull request.
 
 repo.json is generated automatically using the latest data in your repository/repo.json file.
  
+# Package Name Requirements
+
+The package name in pkglist.txt is a simplified name of your package for use in the package manager.
+
+You package name must contain only the following characters:
+
+* unicode word charcater
+* lowercase
+* dash "-"
+* underscore "_"
+
+This is equivalent to the python 3.4 regex u"[\w-]"
+
