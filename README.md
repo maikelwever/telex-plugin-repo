@@ -26,8 +26,12 @@ You package name must contain only the following characters:
 
 * unicode word charcater
 * lowercase
-* dash "-"
-* underscore "_"
+* dash '-'
+* underscore '_'
 
-This is equivalent to the python 3.4 regex u"[\w-]"
+This is equivalent to the python 3.4 regex
+
+```
+ u"[\w-]"
+```
 
