@@ -6,12 +6,12 @@ from urllib.request import urlopen
 import json
 from configparser import ConfigParser
 
-urls = open("repolist.txt", "r")
+urls = open("pkglist.txt", "r")
 
 repo_json = json.loads('{"packages": []}')
 
 for url in urls:
-    url = url.strip()
+    pkg_name, url = url.split()
     
     pkg_json = None
     try:
@@ -34,6 +34,8 @@ for url in urls:
 
     if "branch" not in pkg_json.keys():
         pkg_json["branch"] = "master"
+
+    pkg_json["pkg"] = pkg_name
 
     repo_json["packages"].append(pkg_json)
 
