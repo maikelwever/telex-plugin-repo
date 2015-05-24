@@ -1,2 +1,2 @@
-https://raw.githubusercontent.com/xlopo/tg-pybot-whiskey/master/repository
-https://raw.githubusercontent.com/datamachine/telegram-pybot-dice/master/repository
+whiskey	https://raw.githubusercontent.com/xlopo/tg-pybot-whiskey/master/repository
+dice	https://raw.githubusercontent.com/datamachine/telegram-pybot-dice/master/repository
