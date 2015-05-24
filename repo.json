@@ -23,6 +23,6 @@
             "name": "Weather",
             "repo": "https://github.com/datamachine/telegram-pybot-weather.git",
             "version": "1.1"
-        },
+        }
     ]
 }
