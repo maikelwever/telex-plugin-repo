@@ -35,7 +35,7 @@ for url in urls:
     if "branch" not in pkg_json.keys():
         pkg_json["branch"] = "master"
 
-    pkg_json["pkg"] = pkg_name
+    pkg_json["pkg_name"] = pkg_name
 
     repo_json["packages"].append(pkg_json)
 

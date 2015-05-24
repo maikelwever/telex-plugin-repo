@@ -5,7 +5,7 @@
             "description": "Pass the whiskey.",
             "homepage": "https://github.com/xlopo/tg-pybot-whiskey",
             "name": "Whiskey",
-            "pkg": "whiskey",
+            "pkg_name": "whiskey",
             "repo": "https://github.com/xlopo/tg-pybot-whiskey.git",
             "version": "1.0"
         },
@@ -14,7 +14,7 @@
             "description": "Roll Dice!",
             "homepage": "https://github.com/datamachine/telegram-pybot-dice",
             "name": "Dice",
-            "pkg": "dice",
+            "pkg_name": "dice",
             "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
             "version": "0.1"
         },
@@ -23,7 +23,7 @@
             "description": "Display the current weather conditions",
             "homepage": "https://github.com/datamachine/telegram-pybot-weather",
             "name": "Weather",
-            "pkg": "weather",
+            "pkg_name": "weather",
             "repo": "https://github.com/datamachine/telegram-pybot-weather.git",
             "version": "1.1"
         }
