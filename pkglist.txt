@@ -1,2 +1,3 @@
 whiskey	https://raw.githubusercontent.com/xlopo/tg-pybot-whiskey/master/repository
 dice	https://raw.githubusercontent.com/datamachine/telegram-pybot-dice/master/repository
+weather https://raw.githubusercontent.com/datamachine/telegram-pybot-weather/master/repository
