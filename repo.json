@@ -17,6 +17,14 @@
             "pkg": "dice",
             "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
             "version": "0.1"
+        },
+        {
+            "branch": "master",
+            "description": "Weather",
+            "homepage": "https://github.com/datamachine/telegram-pybot-weather",
+            "name": "Weather",
+            "repo": "https://github.com/datamachine/telegram-pybot-weather.git",
+            "version": "1.1"
         }
     ]
 }
