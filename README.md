@@ -6,6 +6,7 @@ Clone the repository.
 
 Edit pkglist.txt and add a unique simple package name, and a http/s url to the location of the repository folder.
 
+E.g.
 ```
 whiskey https://raw.githubusercontent.com/xlopo/tg-pybot-whiskey/master/repository
 dice    https://raw.githubusercontent.com/datamachine/telegram-pybot-dice/master/repository
