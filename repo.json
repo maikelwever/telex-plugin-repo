@@ -29,6 +29,15 @@
         },
         {
             "branch": "master",
+            "description": "Use RateBeer to search for beer stats.",
+            "homepage": "https://github.com/datamachine/telegram-pybot-beer",
+            "name": "beer",
+            "pkg_name": "beer",
+            "repo": "https://github.com/datamachine/telegram-pybot-beer.git",
+            "version": "1.1"
+        },
+        {
+            "branch": "master",
             "description": "ask me a question about your life.",
             "homepage": "https://github.com/function10/telegram-pybot-magic-eight-ball",
             "name": "Magic Eight Ball",
