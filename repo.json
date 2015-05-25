@@ -26,6 +26,15 @@
             "pkg_name": "weather",
             "repo": "https://github.com/datamachine/telegram-pybot-weather.git",
             "version": "1.1"
+        },
+        {
+            "branch": "master",
+            "description": "ask me a question about your life.",
+            "homepage": "https://github.com/function10/telegram-pybot-magic-eight-ball",
+            "name": "Magic Eight Ball",
+            "pkg_name": "magic8ball",
+            "repo": "https://github.com/function10/telegram-pybot-magic-eight-ball.git",
+            "version": "0.1"
         }
     ]
 }

@@ -4,7 +4,7 @@ from configparser import ConfigParser
 from urllib.parse import urlparse, urlunparse
 from urllib.request import urlopen
 import json
-from configparser import ConfigParser
+import sys
 
 urls = open("pkglist.txt", "r")
 
@@ -19,6 +19,7 @@ for url in urls:
             pkg_json = f.read(524288).decode("utf-8")
         pkg_json = json.loads(pkg_json)
     except:
+        print(sys.exc_info()[0])
         pkg_json = None
 
     if not pkg_json:
@@ -30,6 +31,7 @@ for url in urls:
         pkg_json["version"]
         pkg_json["repo"]
     except:
+        print(sys.exc_info()[0])
         continue
 
     if "branch" not in pkg_json.keys():
