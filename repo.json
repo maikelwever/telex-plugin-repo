@@ -20,30 +20,30 @@
         },
         {
             "branch": "master",
-            "description": "Roll Dice!",
-            "homepage": "https://github.com/datamachine/telegram-pybot-dice",
-            "name": "Dice",
+            "description": "Just print the contents of the command",
+            "homepage": "https://github.com/datamachine/telegram-pybot-examplecallbacks",
+            "name": "Example CallBacks",
             "pkg_name": "examplecallbacks",
-            "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
-            "version": "0.1"
+            "repo": "https://github.com/datamachine/telegram-pybot-examplecallbacks.git",
+            "version": "1.1"
         },
         {
             "branch": "master",
-            "description": "Roll Dice!",
-            "homepage": "https://github.com/datamachine/telegram-pybot-dice",
-            "name": "Dice",
+            "description": "Retrieve BTC prices",
+            "homepage": "https://github.com/datamachine/telegram-pybot-btc",
+            "name": "BTC",
             "pkg_name": "btc",
-            "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
-            "version": "0.1"
+            "repo": "https://github.com/datamachine/telegram-pybot-btc.git",
+            "version": "1.1"
         },
         {
             "branch": "master",
-            "description": "Roll Dice!",
-            "homepage": "https://github.com/datamachine/telegram-pybot-dice",
-            "name": "Dice",
+            "description": "Calculator that uses mathjs to evaluate",
+            "homepage": "https://github.com/datamachine/telegram-pybot-calculator",
+            "name": "Calculator",
             "pkg_name": "calculator",
-            "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
-            "version": "0.1"
+            "repo": "https://github.com/datamachine/telegram-pybot-calculator.git",
+            "version": "1.1"
         },
         {
             "branch": "master",
