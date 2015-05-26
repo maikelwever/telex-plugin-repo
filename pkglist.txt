@@ -5,4 +5,5 @@ btc 	https://raw.githubusercontent.com/datamachine/telegram-pybot-btc/master/rep
 calculator  https://raw.githubusercontent.com/datamachine/telegram-pybot-calculator/master/repository
 weather https://raw.githubusercontent.com/datamachine/telegram-pybot-weather/master/repository
 beer https://raw.githubusercontent.com/datamachine/telegram-pybot-beer/master/repository
+nutrition    https://raw.githubusercontent.com/datamachine/telegram-pybot-nutrition/master/repository
 magic8ball  https://raw.githubusercontent.com/function10/telegram-pybot-magic-eight-ball/master/repository

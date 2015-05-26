@@ -11,6 +11,9 @@
         },
         {
             "branch": "master",
+            "default_enable": [
+                "Dice"
+            ],
             "description": "Roll Dice!",
             "homepage": "https://github.com/datamachine/telegram-pybot-dice",
             "name": "Dice",
@@ -20,6 +23,9 @@
         },
         {
             "branch": "master",
+            "default_enable": [
+                "ExampleCallBacks"
+            ],
             "description": "Just print the contents of the command",
             "homepage": "https://github.com/datamachine/telegram-pybot-examplecallbacks",
             "name": "Example CallBacks",
@@ -29,6 +35,9 @@
         },
         {
             "branch": "master",
+            "default_enable": [
+                "BTC"
+            ],
             "description": "Retrieve BTC prices",
             "homepage": "https://github.com/datamachine/telegram-pybot-btc",
             "name": "BTC",
@@ -38,30 +47,39 @@
         },
         {
             "branch": "master",
+            "default_enable": [
+                "Calculator"
+            ],
             "description": "Calculator that uses mathjs to evaluate",
             "homepage": "https://github.com/datamachine/telegram-pybot-calculator",
             "name": "Calculator",
             "pkg_name": "calculator",
             "repo": "https://github.com/datamachine/telegram-pybot-calculator.git",
-            "version": "1.1"
+            "version": "1.2"
         },
         {
             "branch": "master",
+            "default_enable": [
+                "Weather"
+            ],
             "description": "Display the current weather conditions",
             "homepage": "https://github.com/datamachine/telegram-pybot-weather",
             "name": "Weather",
             "pkg_name": "weather",
             "repo": "https://github.com/datamachine/telegram-pybot-weather.git",
-            "version": "1.1"
+            "version": "1.2"
         },
         {
             "branch": "master",
+            "default_enable": [
+                "RateBeer"
+            ],
             "description": "Use RateBeer to search for beer stats.",
             "homepage": "https://github.com/datamachine/telegram-pybot-beer",
             "name": "beer",
             "pkg_name": "beer",
             "repo": "https://github.com/datamachine/telegram-pybot-beer.git",
-            "version": "1.1"
+            "version": "1.2"
         },
         {
             "branch": "master",
