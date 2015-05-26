@@ -83,6 +83,18 @@
         },
         {
             "branch": "master",
+            "default_enable": [
+                "Nutrition"
+            ],
+            "description": "Display the current weather conditions",
+            "homepage": "https://github.com/datamachine/telegram-pybot-nutrition",
+            "name": "Nutrition",
+            "pkg_name": "nutrition",
+            "repo": "https://github.com/datamachine/telegram-pybot-nutrition.git",
+            "version": "1.1"
+        },
+        {
+            "branch": "master",
             "description": "ask me a question about your life.",
             "homepage": "https://github.com/function10/telegram-pybot-magic-eight-ball",
             "name": "Magic Eight Ball",
