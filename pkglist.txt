@@ -1,5 +1,8 @@
 whiskey	https://raw.githubusercontent.com/xlopo/tg-pybot-whiskey/master/repository
 dice	https://raw.githubusercontent.com/datamachine/telegram-pybot-dice/master/repository
+examplecallbacks	https://raw.githubusercontent.com/datamachine/telegram-pybot-dice/master/repository
+btc 	https://raw.githubusercontent.com/datamachine/telegram-pybot-dice/master/repository
+calculator	https://raw.githubusercontent.com/datamachine/telegram-pybot-dice/master/repository
 weather https://raw.githubusercontent.com/datamachine/telegram-pybot-weather/master/repository
 beer https://raw.githubusercontent.com/datamachine/telegram-pybot-beer/master/repository
 magic8ball  https://raw.githubusercontent.com/function10/telegram-pybot-magic-eight-ball/master/repository

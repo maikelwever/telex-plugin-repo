@@ -20,6 +20,33 @@
         },
         {
             "branch": "master",
+            "description": "Roll Dice!",
+            "homepage": "https://github.com/datamachine/telegram-pybot-dice",
+            "name": "Dice",
+            "pkg_name": "examplecallbacks",
+            "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
+            "version": "0.1"
+        },
+        {
+            "branch": "master",
+            "description": "Roll Dice!",
+            "homepage": "https://github.com/datamachine/telegram-pybot-dice",
+            "name": "Dice",
+            "pkg_name": "btc",
+            "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
+            "version": "0.1"
+        },
+        {
+            "branch": "master",
+            "description": "Roll Dice!",
+            "homepage": "https://github.com/datamachine/telegram-pybot-dice",
+            "name": "Dice",
+            "pkg_name": "calculator",
+            "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
+            "version": "0.1"
+        },
+        {
+            "branch": "master",
             "description": "Display the current weather conditions",
             "homepage": "https://github.com/datamachine/telegram-pybot-weather",
             "name": "Weather",
