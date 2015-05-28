@@ -101,6 +101,18 @@
             "pkg_name": "magic8ball",
             "repo": "https://github.com/function10/telegram-pybot-magic-eight-ball.git",
             "version": "0.1"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "Spyfall"
+            ],
+            "description": "Spyfall for telegram",
+            "homepage": "https://github.com/datamachine/telegram-pybot-spyfall",
+            "name": "Spyfall",
+            "pkg_name": "spyfall",
+            "repo": "https://github.com/datamachine/telegram-pybot-spyfall.git",
+            "version": "1.1"
         }
     ]
 }
