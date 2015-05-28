@@ -86,7 +86,7 @@
             "default_enable": [
                 "Nutrition"
             ],
-            "description": "Display the current weather conditions",
+            "description": "Get nutrition data from nutritionix",
             "homepage": "https://github.com/datamachine/telegram-pybot-nutrition",
             "name": "Nutrition",
             "pkg_name": "nutrition",
@@ -112,6 +112,18 @@
             "name": "Spyfall",
             "pkg_name": "spyfall",
             "repo": "https://github.com/datamachine/telegram-pybot-spyfall.git",
+            "version": "1.1"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "RemindMe"
+            ],
+            "description": "Register a reminder with the bot",
+            "homepage": "https://github.com/datamachine/telegram-pybot-remindme",
+            "name": "RemindMe",
+            "pkg_name": "remindme",
+            "repo": "https://github.com/datamachine/telegram-pybot-remindme.git",
             "version": "1.1"
         }
     ]

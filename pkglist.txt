@@ -8,3 +8,4 @@ beer https://raw.githubusercontent.com/datamachine/telegram-pybot-beer/master/re
 nutrition    https://raw.githubusercontent.com/datamachine/telegram-pybot-nutrition/master/repository
 magic8ball  https://raw.githubusercontent.com/function10/telegram-pybot-magic-eight-ball/master/repository
 spyfall  https://raw.githubusercontent.com/datamachine/telegram-pybot-spyfall/master/repository
+remindme https://raw.githubusercontent.com/datamachine/telegram-pybot-remindme/master/repository
