@@ -9,3 +9,4 @@ nutrition    https://raw.githubusercontent.com/datamachine/telegram-pybot-nutrit
 magic8ball  https://raw.githubusercontent.com/function10/telegram-pybot-magic-eight-ball/master/repository
 spyfall  https://raw.githubusercontent.com/datamachine/telegram-pybot-spyfall/master/repository
 remindme https://raw.githubusercontent.com/datamachine/telegram-pybot-remindme/master/repository
+nfl https://raw.githubusercontent.com/datamachine/telegram-pybot-nfl/master/repository
