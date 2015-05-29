@@ -22,16 +22,17 @@ repo.json is generated automatically using the latest data in your repository/re
 
 The package name in pkglist.txt is a simplified name of your package for use in the package manager.
 
-You package name must contain only the following characters:
+You package name must match the following requirements
 
-* unicode word charcater
-* lowercase
-* dash '-'
-* underscore '_'
+* Must contain only unicode word characters, dashes '-', and underscores '_'
+* Must nott begin with a - or an underscore
+* Must be all lower case
+* Must be unique to the repo
+* Must be at least two characters in length
 
-This is equivalent to the python 3.4 regex
+For illustration purposes, this is roughly equivalent to the python 3.4 regex:
 
 ```
- u"[\w-]"
+ "^\w[\w\-_]+"
 ```
 
