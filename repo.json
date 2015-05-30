@@ -137,6 +137,18 @@
             "pkg_name": "nfl",
             "repo": "https://github.com/datamachine/telegram-pybot-nfl.git",
             "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "Emoticons"
+            ],
+            "description": "Print stupid emoticons",
+            "homepage": "https://github.com/datamachine/telegram-pybot-emoticons",
+            "name": "Emoticons",
+            "pkg_name": "emoticons",
+            "repo": "https://github.com/datamachine/telegram-pybot-emoticons.git",
+            "version": "1.1"
         }
     ]
 }
