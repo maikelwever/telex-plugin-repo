@@ -27,10 +27,10 @@
                 "ExampleCallBacks"
             ],
             "description": "Just print the contents of the command",
-            "homepage": "https://github.com/datamachine/telegram-pybot-examplecallbacks",
+            "homepage": "https://github.com/datamachine/telex-examplecallbacks",
             "name": "Example CallBacks",
             "pkg_name": "examplecallbacks",
-            "repo": "https://github.com/datamachine/telegram-pybot-examplecallbacks.git",
+            "repo": "https://github.com/datamachine/telex-examplecallbacks.git",
             "version": "1.1"
         },
         {
@@ -39,10 +39,10 @@
                 "BTC"
             ],
             "description": "Retrieve BTC prices",
-            "homepage": "https://github.com/datamachine/telegram-pybot-btc",
+            "homepage": "https://github.com/datamachine/telex-btc",
             "name": "BTC",
             "pkg_name": "btc",
-            "repo": "https://github.com/datamachine/telegram-pybot-btc.git",
+            "repo": "https://github.com/datamachine/telex-btc.git",
             "version": "1.1"
         },
         {
@@ -51,10 +51,10 @@
                 "Calculator"
             ],
             "description": "Calculator that uses mathjs to evaluate",
-            "homepage": "https://github.com/datamachine/telegram-pybot-calculator",
+            "homepage": "https://github.com/datamachine/telex-calculator",
             "name": "Calculator",
             "pkg_name": "calculator",
-            "repo": "https://github.com/datamachine/telegram-pybot-calculator.git",
+            "repo": "https://github.com/datamachine/telex-calculator.git",
             "version": "1.2"
         },
         {
@@ -108,10 +108,10 @@
                 "Spyfall"
             ],
             "description": "Spyfall for telegram",
-            "homepage": "https://github.com/datamachine/telegram-pybot-spyfall",
+            "homepage": "https://github.com/datamachine/telex-spyfall",
             "name": "Spyfall",
             "pkg_name": "spyfall",
-            "repo": "https://github.com/datamachine/telegram-pybot-spyfall.git",
+            "repo": "https://github.com/datamachine/telex-spyfall.git",
             "version": "1.1"
         },
         {
@@ -120,10 +120,10 @@
                 "RemindMe"
             ],
             "description": "Register a reminder with the bot",
-            "homepage": "https://github.com/datamachine/telegram-pybot-remindme",
+            "homepage": "https://github.com/datamachine/telex-remindme",
             "name": "RemindMe",
             "pkg_name": "remindme",
-            "repo": "https://github.com/datamachine/telegram-pybot-remindme.git",
+            "repo": "https://github.com/datamachine/telex-remindme.git",
             "version": "1.1"
         },
         {
