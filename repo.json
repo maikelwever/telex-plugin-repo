@@ -15,10 +15,10 @@
                 "Dice"
             ],
             "description": "Roll Dice!",
-            "homepage": "https://github.com/datamachine/telegram-pybot-dice",
+            "homepage": "https://github.com/datamachine/telex-dice",
             "name": "Dice",
             "pkg_name": "dice",
-            "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
+            "repo": "https://github.com/datamachine/telex-dice.git",
             "version": "0.1"
         },
         {
@@ -63,10 +63,10 @@
                 "Weather"
             ],
             "description": "Display the current weather conditions",
-            "homepage": "https://github.com/datamachine/telegram-pybot-weather",
+            "homepage": "https://github.com/datamachine/telex-weather",
             "name": "Weather",
             "pkg_name": "weather",
-            "repo": "https://github.com/datamachine/telegram-pybot-weather.git",
+            "repo": "https://github.com/datamachine/telex-weather.git",
             "version": "1.2"
         },
         {
@@ -75,10 +75,10 @@
                 "RateBeer"
             ],
             "description": "Use RateBeer to search for beer stats.",
-            "homepage": "https://github.com/datamachine/telegram-pybot-beer",
+            "homepage": "https://github.com/datamachine/telex-beer",
             "name": "beer",
             "pkg_name": "beer",
-            "repo": "https://github.com/datamachine/telegram-pybot-beer.git",
+            "repo": "https://github.com/datamachine/telex-beer.git",
             "version": "1.2"
         },
         {
@@ -87,10 +87,10 @@
                 "Nutrition"
             ],
             "description": "Get nutrition data from nutritionix",
-            "homepage": "https://github.com/datamachine/telegram-pybot-nutrition",
+            "homepage": "https://github.com/datamachine/telex-nutrition",
             "name": "Nutrition",
             "pkg_name": "nutrition",
-            "repo": "https://github.com/datamachine/telegram-pybot-nutrition.git",
+            "repo": "https://github.com/datamachine/telex-nutrition.git",
             "version": "1.1"
         },
         {
@@ -132,10 +132,10 @@
                 "NFL"
             ],
             "description": "Get nfl data using nflgame/nfldb",
-            "homepage": "https://github.com/datamachine/telegram-pybot-nfl",
+            "homepage": "https://github.com/datamachine/telex-nfl",
             "name": "NFL",
             "pkg_name": "nfl",
-            "repo": "https://github.com/datamachine/telegram-pybot-nfl.git",
+            "repo": "https://github.com/datamachine/telex-nfl.git",
             "version": "1.0"
         },
         {
@@ -144,10 +144,10 @@
                 "Emoticons"
             ],
             "description": "Print stupid emoticons",
-            "homepage": "https://github.com/datamachine/telegram-pybot-emoticons",
+            "homepage": "https://github.com/datamachine/telex-emoticons",
             "name": "Emoticons",
             "pkg_name": "emoticons",
-            "repo": "https://github.com/datamachine/telegram-pybot-emoticons.git",
+            "repo": "https://github.com/datamachine/telex-emoticons.git",
             "version": "1.1"
         }
     ]
