@@ -12,4 +12,4 @@ remindme https://raw.githubusercontent.com/datamachine/telex-remindme/master/rep
 nfl https://raw.githubusercontent.com/datamachine/telex-nfl/master/repository
 emoticons  https://raw.githubusercontent.com/datamachine/telex-emoticons/master/repository
 wolframalpha  https://raw.githubusercontent.com/maikelwever/telex-wolframalpha/master/repository
-search  https://raw.githubusercontent.com/asdofindia/telex-search/master/repository
+search  https://raw.githubusercontent.com/maikelwever/telex-search/master/repository
