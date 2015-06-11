@@ -149,6 +149,18 @@
             "pkg_name": "emoticons",
             "repo": "https://github.com/datamachine/telex-emoticons.git",
             "version": "1.1"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "WolframAlpha"
+            ],
+            "description": "Answers questions using the WolframAlpha API",
+            "homepage": "https://github.com/maikelwever/telex-wolframalpha",
+            "name": "WolframAlpha",
+            "pkg_name": "wolframalpha",
+            "repo": "https://github.com/maikelwever/telex-wolframalpha.git",
+            "version": "1.0"
         }
     ]
 }
