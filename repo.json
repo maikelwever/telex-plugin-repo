@@ -161,6 +161,18 @@
             "pkg_name": "wolframalpha",
             "repo": "https://github.com/maikelwever/telex-wolframalpha.git",
             "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "Search"
+            ],
+            "description": "Search engines for Telegram",
+            "homepage": "https://github.com/asdofindia/telegram-pybot-search",
+            "name": "Search",
+            "pkg_name": "search",
+            "repo": "https://github.com/asdofindia/telegram-pybot-search.git",
+            "version": "0.1"
         }
     ]
 }

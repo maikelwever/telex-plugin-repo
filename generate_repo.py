@@ -1,7 +1,5 @@
 #!/usr/bin/env python3.4
 
-from configparser import ConfigParser
-from urllib.parse import urlparse, urlunparse
 from urllib.request import urlopen
 import json
 import sys
@@ -10,9 +8,17 @@ urls = open("pkglist.txt", "r")
 
 repo_json = json.loads('{"packages": []}')
 
-for url in urls:
+plugin_count = sum(1 for line in urls)
+urls.seek(0)
+print("Fetching information for {0} plugins.".format(plugin_count))
+
+for counter, url in enumerate(urls):
     pkg_name, url = url.split()
-    
+
+    sys.stdout.write("\r[{0}/{1}] Fetching information for {2}...              ".format(counter+1,
+                                                                                        plugin_count,
+                                                                                        pkg_name))
+
     pkg_json = None
     try:
         with urlopen(url + "/repo.json") as f:
@@ -42,8 +48,9 @@ for url in urls:
     repo_json["packages"].append(pkg_json)
 
 
+print("\nWriting to file...")
 repo_output = open("repo.json", "wb")
 repo_output.write(json.dumps(repo_json, sort_keys=True, indent=4).encode("utf-8"))
 repo_output.write(b"\n")
 repo_output.close()
-
+print("Done.")
