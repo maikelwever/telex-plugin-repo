@@ -173,6 +173,42 @@
             "pkg_name": "search",
             "repo": "https://github.com/asdofindia/telegram-pybot-search.git",
             "version": "0.1"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "Substitute"
+            ],
+            "description": "Run substitution regexes on messages",
+            "homepage": "https://github.com/sietsevandermolen/telex-substitute",
+            "name": "Substitute",
+            "pkg_name": "substitute",
+            "repo": "https://github.com/sietsevandermolen/telex-substitute.git",
+            "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "XKCD"
+            ],
+            "description": "Get xkcd's from xkcd.com",
+            "homepage": "https://github.com/sietsevandermolen/telex-xkcd",
+            "name": "XKCD",
+            "pkg_name": "xkcd",
+            "repo": "https://github.com/sietsevandermolen/telex-xkcd.git",
+            "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "Giphy"
+            ],
+            "description": "Get gifs from giphy.com",
+            "homepage": "https://github.com/sietsevandermolen/telex-giphy",
+            "name": "Giphy",
+            "pkg_name": "giphy",
+            "repo": "https://github.com/sietsevandermolen/telex-giphy.git",
+            "version": "1.0"
         }
     ]
 }
