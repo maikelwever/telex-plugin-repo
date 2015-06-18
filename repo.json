@@ -221,6 +221,30 @@
             "pkg_name": "giphy",
             "repo": "https://github.com/sietsevandermolen/telex-giphy.git",
             "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "blocklist"
+            ],
+            "description": "block users from using the bot",
+            "homepage": "https://github.com/sietsevandermolen/telex-blocklist",
+            "name": "Blocklist",
+            "pkg_name": "blocklist",
+            "repo": "https://github.com/sietsevandermolen/telex-blocklist.git",
+            "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "Fap"
+            ],
+            "description": "Get images from imagefap.com",
+            "homepage": "https://github.com/sietsevandermolen/telex-fap",
+            "name": "Fap",
+            "pkg_name": "fap",
+            "repo": "https://github.com/sietsevandermolen/telex-fap.git",
+            "version": "1.0"
         }
     ]
 }

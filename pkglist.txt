@@ -17,3 +17,5 @@ network  https://raw.githubusercontent.com/maikelwever/telex-network/master/repo
 substitute  https://raw.githubusercontent.com/SietsevanderMolen/telex-substitute/master/repository
 xkcd  https://raw.githubusercontent.com/SietsevanderMolen/telex-xkcd/master/repository
 giphy  https://raw.githubusercontent.com/SietsevanderMolen/telex-giphy/master/repository
+blocklist  https://raw.githubusercontent.com/SietsevanderMolen/telex-blocklist/master/repository
+fap https://raw.githubusercontent.com/SietsevanderMolen/telex-fap/master/repository
