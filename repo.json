@@ -177,6 +177,18 @@
         {
             "branch": "master",
             "default_enable": [
+                "Network"
+            ],
+            "description": "Some useful network-related things like dns resolving, pinging.",
+            "homepage": "https://github.com/maikelwever/telex-network",
+            "name": "Network",
+            "pkg_name": "network",
+            "repo": "https://github.com/maikelwever/telex-network.git",
+            "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
                 "Substitute"
             ],
             "description": "Run substitution regexes on messages",
