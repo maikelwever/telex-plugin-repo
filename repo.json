@@ -269,6 +269,18 @@
             "pkg_name": "wdb",
             "repo": "https://github.com/maikelwever/telex-wdb.git",
             "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "MemeGenerator"
+            ],
+            "description": "Generates memes using builting images and user input",
+            "homepage": "https://github.com/maikelwever/telex-memegenerator",
+            "name": "MemeGenerator",
+            "pkg_name": "memegenerator",
+            "repo": "https://github.com/maikelwever/telex-memegenerator.git",
+            "version": "1.0"
         }
     ]
 }
