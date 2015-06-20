@@ -20,3 +20,4 @@ xkcd  https://raw.githubusercontent.com/SietsevanderMolen/telex-xkcd/master/repo
 giphy  https://raw.githubusercontent.com/SietsevanderMolen/telex-giphy/master/repository
 blocklist  https://raw.githubusercontent.com/SietsevanderMolen/telex-blocklist/master/repository
 fap https://raw.githubusercontent.com/SietsevanderMolen/telex-fap/master/repository
+wdb https://raw.githubusercontent.com/maikelwever/telex-wdb/master/repository
