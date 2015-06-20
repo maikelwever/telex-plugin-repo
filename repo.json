@@ -257,6 +257,18 @@
             "pkg_name": "fap",
             "repo": "https://github.com/sietsevandermolen/telex-fap.git",
             "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "Wdb"
+            ],
+            "description": "Triggers python wdb debugger",
+            "homepage": "https://github.com/maikelwever/telex-wdb",
+            "name": "Wdb",
+            "pkg_name": "wdb",
+            "repo": "https://github.com/maikelwever/telex-wdb.git",
+            "version": "1.0"
         }
     ]
 }
