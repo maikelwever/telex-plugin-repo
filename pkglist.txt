@@ -21,3 +21,4 @@ giphy  https://raw.githubusercontent.com/SietsevanderMolen/telex-giphy/master/re
 blocklist  https://raw.githubusercontent.com/SietsevanderMolen/telex-blocklist/master/repository
 fap https://raw.githubusercontent.com/SietsevanderMolen/telex-fap/master/repository
 wdb https://raw.githubusercontent.com/maikelwever/telex-wdb/master/repository
+memegenerator https://raw.githubusercontent.com/maikelwever/telex-memegenerator/master/repository
