@@ -281,6 +281,18 @@
             "pkg_name": "memegenerator",
             "repo": "https://github.com/maikelwever/telex-memegenerator.git",
             "version": "1.0"
+        },
+        {
+            "branch": "master",
+            "default_enable": [
+                "Vote"
+            ],
+            "description": "Call a vote in the chat",
+            "homepage": "https://github.com/SietsevanderMolen/telex-vote",
+            "name": "Vote",
+            "pkg_name": "vote",
+            "repo": "https://github.com/SietsevanderMolen/telex-vote.git",
+            "version": "1.0"
         }
     ]
 }
