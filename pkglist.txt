@@ -22,3 +22,4 @@ blocklist  https://raw.githubusercontent.com/SietsevanderMolen/telex-blocklist/m
 fap https://raw.githubusercontent.com/SietsevanderMolen/telex-fap/master/repository
 wdb https://raw.githubusercontent.com/maikelwever/telex-wdb/master/repository
 memegenerator https://raw.githubusercontent.com/maikelwever/telex-memegenerator/master/repository
+vote https://raw.githubusercontent.com/SietsevanderMolen/telex-vote/master/repository
